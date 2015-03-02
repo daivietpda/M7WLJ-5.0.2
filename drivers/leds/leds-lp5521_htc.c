@@ -30,6 +30,7 @@
 #include <linux/module.h>
 #include <linux/of_gpio.h>
 #include <linux/wakelock.h>
+#include <mach/ADP5585_ioextender.h>
 
 #define LP5521_MAX_LEDS			9	
 #define LED_DEBUG				1
